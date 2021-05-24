@@ -1,4 +1,6 @@
 #usando isinstance
+#probando python3
+
 i = 7
 if isinstance(i, int):
      i += 1
