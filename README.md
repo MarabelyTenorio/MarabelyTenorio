@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MarabelyTenorio
-- 👀 I’m interested in language learning and programming.
-- 🌱 I’m currently learning Java, C# and Python advanced.
+- 👋 Hola, soy @MarabelyTenorio
+- 👀 Me encanta el desarrollo de aplicaciones móviles.
+- 🌱 Actualmente, estoy aprendiendo programación web con html y css básico.
+El lenguaje de programación que más domino es Java y estoy aprendiendo Python.
 
 <!---
 MarabelyTenorio/MarabelyTenorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
